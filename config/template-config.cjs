@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      {{earthy_love_words.DATA}}
+      
       ---
       
       城市：{{city.DATA}}
@@ -29,7 +29,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{one_talk.DATA}}
+      {{earthy_love_words.DATA}}
       
     `
   },
