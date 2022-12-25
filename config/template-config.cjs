@@ -5,8 +5,8 @@ const TEMPLATE_CONFIG = [
     title: '亲爱的, 早上好',
     desc: `
       **{{date.DATA}}**
-      {{earthy_love_words.DATA}}
       
+      {{earthy_love_words.DATA}}
       ---
       
       城市：{{city.DATA}}
